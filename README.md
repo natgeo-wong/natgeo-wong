@@ -6,7 +6,7 @@ Status of Projects and Package Repositories:
 * **Julia Packages**
   * **Actively Maintained:** `ClimateSatellite.jl`, `ClimateERA.jl`, `GeoRegions.jl`, `SAMTools.jl`
   * **Developement Paused:** `IscaTools.jl`, `GillMatsuno.jl`, `ClimateGNSS.jl`
-  * **Upcoming:** `ClimateReanalysis.jl` (combination of `ClimateERA.jl` with other reanalysis (i.e. NCEP and MERRA)
+  * **Upcoming:** `ClimateReanalysis.jl` (combination of `ClimateERA.jl` with other reanalysis (i.e. NCEP and MERRA), unless someone gets to this first HAHA)
   
 * **Project Code Repositories:**
   * **Actively Maintained:** MaritimeContPWV, PiPWV, DiConv
