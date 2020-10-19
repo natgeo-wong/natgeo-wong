@@ -2,6 +2,8 @@
 
 Hi everyone! I'm a Graduate Student working under Professor [Kuang Zhiming](http://www.people.fas.harvard.edu/~kuang/) studying all things related to tropical climatology and meteorology using both observational data and (eventually) climate models of varying complexities. I mostly work in #JuliaLang, and most of the code repositories of my projects can be found here as well, with organization courtesy of the [DrWatson.jl](https://github.com/JuliaDynamics/DrWatson.jl) package!
 
+**Note: I am currently busy with classes, so updates to projects and packages may be slower than otherwise expected.**
+
 Status of Projects and Package Repositories:
 * **Julia Packages**
   * **Actively Maintained:** `ClimateSatellite.jl`, `ClimateERA.jl`, `GeoRegions.jl`, `SAMTools.jl`
