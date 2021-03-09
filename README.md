@@ -15,8 +15,8 @@ Status of Projects and Package Repositories:
   * **Developement Paused:** I3C2M1, MonsoonTilt
 
 <a href="https://github.com/natgeo-wong">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natgeo-wong&layout=compact&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=natgeo-wong&count_private=true&show_icons=true&theme=algolia" />
 </a>
 <a href="https://github.com/natgeo-wong">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=natgeo-wong&count_private=true&show_icons=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natgeo-wong&layout=compact&theme=algolia" />
 </a>
