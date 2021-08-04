@@ -6,9 +6,9 @@ Hi everyone! I'm a Graduate Student working under Professor [Kuang Zhiming](http
 
 Status of Projects and Package Repositories:
 * **Julia Packages**
-  * **Actively Maintained:** `ClimateSatellite.jl`, `ClimateERA.jl`, `GeoRegions.jl`, `SAMTools.jl`
-  * **Developement Paused:** `IscaTools.jl`, `GillMatsuno.jl`, `ClimateGNSS.jl`
-  * **Upcoming:** `ClimateReanalysis.jl` (combination of `ClimateERA.jl` with other reanalysis (i.e. NCEP and MERRA), unless someone gets to this first HAHA)
+  * **Actively Maintained:** `ClimateERA.jl`, `GeoRegions.jl`, `SAMTools.jl`, `GillMatsuno.jl`
+  * **Developement Paused:** `IscaTools.jl`, `ClimateGNSS.jl`, `ClimateSatellite.jl`
+  * **Upcoming:** `NASAPrecipitation.jl` (spinoff of `ClimateSatellite.jl` that focuses on NASA PMM products)
   
 * **Project Code Repositories:**
   * **Actively Maintained:** MaritimeContPWV, PiPWV, DiConv
