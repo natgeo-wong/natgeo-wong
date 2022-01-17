@@ -6,13 +6,14 @@ Hi everyone! I'm a Graduate Student working under Professor [Kuang Zhiming](http
 
 Status of Projects and Package Repositories:
 * **Julia Packages**
-  * **Actively Maintained:** `ClimateERA.jl`, `GeoRegions.jl`, `SAMTools.jl`, `GillMatsuno.jl`
+  * **Actively Maintained:** `NASAPrecipitation.jl`, `GeoRegions.jl`, `GillMatsuno.jl`
+  * **Upcoming:** `ERA5Reanalysis.jl` (spinoff of `ClimateSatellite.jl` that focuses on NASA PMM products), `SAMTools.jl`
   * **Developement Paused:** `IscaTools.jl`, `ClimateGNSS.jl`, `ClimateSatellite.jl`
-  * **Upcoming:** `NASAPrecipitation.jl` (spinoff of `ClimateSatellite.jl` that focuses on NASA PMM products)
   
 * **Project Code Repositories:**
-  * **Actively Maintained:** MaritimeContPWV, PiPWV, DiConv
-  * **Developement Paused:** I3C2M1, MonsoonTilt
+  * **Actively Updated:** TroPrecLS, ExploreWTGSpace, SelfAggregation
+  * **When I'm Bored:** MaritimeContPWV, PiPWV, MonsoonTransitions, AquaplanetQBO
+  * **Archival Stage:** DiConv, MonsoonTilt
 
 <a href="https://github.com/natgeo-wong">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=natgeo-wong&count_private=true&show_icons=true&theme=algolia" />
