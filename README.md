@@ -15,9 +15,13 @@ Status of Projects and Package Repositories:
   * **When I'm Bored:** MaritimeContPWV, PiPWV, MonsoonTransitions, AquaplanetQBO
   * **Archival Stage:** DiConv, MonsoonTilt
 
-<a href="https://github.com/natgeo-wong">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=natgeo-wong&count_private=true&show_icons=true&theme=algolia" />
-</a>
-<a href="https://github.com/natgeo-wong">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natgeo-wong&layout=compact&theme=algolia" />
-</a>
+
+<details>
+  <summary>:zap: Github Stats</summary>
+  <a href="https://github.com/natgeo-wong">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=natgeo-wong&count_private=true&show_icons=true&theme=algolia" />
+  </a>
+  <a href="https://github.com/natgeo-wong">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natgeo-wong&layout=compact&theme=algolia" />
+  </a>
+</details>
