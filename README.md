@@ -6,8 +6,8 @@ Hi everyone! I'm a Graduate Student working under Professor [Kuang Zhiming](http
 
 Status of Projects and Package Repositories:
 * **Julia Packages**
-  * **Actively Maintained:** `NASAPrecipitation.jl`, `GeoRegions.jl`, `GillMatsuno.jl`
-  * **Upcoming:** `ERA5Reanalysis.jl`, `SAMTools.jl`
+  * **Actively Maintained:** `NASAPrecipitation.jl`, `GeoRegions.jl`, `ERA5Reanalysis.jl`, `GillMatsuno.jl`
+  * **Upcoming:** `SAMTools.jl`
   * **Developement Paused:** `IscaTools.jl`, `ClimateGNSS.jl`, `ClimateSatellite.jl`
   
 * **Project Code Repositories:**
