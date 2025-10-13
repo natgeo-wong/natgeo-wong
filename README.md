@@ -2,9 +2,7 @@
 
 Hi everyone! I'm a Postdoc working under Professor [Sara Shamekh](https://sshamekh.com/) studying the different phases of convection using ARM and satellite observational data. I am also interested in studying tropical island climatology using climate models of varying complexities. I mostly work in #JuliaLang, and most of the code repositories of my projects can be found here as well.
 
-<div align="center"><a href="https://github.com/natgeo-wong">
+<div align="center">
   <img align="center" height="190"  src="https://github-readme-stats.vercel.app/api?username=natgeo-wong&count_private=true&show_icons=true&theme=algolia" />
-</a>
-<a href="https://github.com/natgeo-wong">
   <img align="center" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natgeo-wong&layout=compact&theme=algolia" />
-</a></div>
+</div>
